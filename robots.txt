@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://icuresecurity.com/sitemap.xml
+Sitemap: https://icuresecurity.com/sitemap.rss
+Sitemap: https://icuresecurity.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
