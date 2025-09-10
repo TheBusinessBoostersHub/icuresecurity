@@ -27,6 +27,7 @@
 /* Inner card */
 .tsklytl-taskly_tool-card {
   text-align: left;
+  color: #000;
 }
 
 .tsklytl-tool-image img {

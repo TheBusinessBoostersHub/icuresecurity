@@ -578,6 +578,15 @@ h2.elementor-heading-title.elementor-size-default {
     font-weight: 700;
     color:#1C65AC;
 }
+a.elementor-button.elementor-button-link.elementor-size-sm {
+    color: #000;
+    border: 2px solid #ef0067 !important;
+    font-weight: 500;
+}
+.elementor-button-wrapper a:hover {
+    background: #ef0067 !important;
+    color: #fff !important;
+}
 /* Dropdown & Menu Styling */
 .navbar-nav .dropdown-menu {
     display: none;
